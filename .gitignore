@@ -6,6 +6,11 @@
 # dotenv files
 .env
 
+# build directories
+bin/
+obj/
+out/
+
 # User-specific files
 *.rsuser
 *.suo
@@ -16,7 +21,7 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
-# Mono auto generated files
+# Mono auto generated lfiles
 mono_crash.*
 
 # Build results
