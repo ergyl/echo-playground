@@ -2,7 +2,7 @@
 using System.Net.NetworkInformation;
 using System.Net.Sockets;
 
-const int tcpPort = 7;
+const int tcpPort = 7007;
 
 var localAddresses = GetLocalIpAddresses();
 if (localAddresses.Count == 0)
